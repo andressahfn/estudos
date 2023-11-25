@@ -16,4 +16,7 @@ ________________________
 Texto revisado. <br>
 Gerado por GPT.
 
+This project was based on a video from the channel [@learning-axis](https://www.youtube.com/@learning-axis)
+
+
 Código criado em nov/23.
